@@ -1,3 +1,4 @@
-first = int(input("first: "))
-second = int(input("second: "))
-print(first + second)
+a_string = "a,b,c"
+letter_list = a_string.split(",")
+
+print(letter_list)
